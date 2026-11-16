@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-kernel-version-selection"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS kernel-version-selection component - kernel_subsystem"
+
+[lib]
+name = "kernel_version_selection"
+path = "src/lib.rs"
