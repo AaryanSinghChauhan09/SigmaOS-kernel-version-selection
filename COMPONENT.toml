@@ -3,7 +3,7 @@ name = "SigmaOS-kernel-version-selection"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "kernel-version-selection component"
+description = "kernel version selection"
 upstream = []
 
 [contract]
